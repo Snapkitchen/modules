@@ -1,0 +1,2 @@
+platform: linux\nrun:\n  path: echo\n  args: ["Mock show-plan"]
+
